@@ -1,3 +1,3 @@
 # DEMO
 
-desc awesome
+desc awesome!
